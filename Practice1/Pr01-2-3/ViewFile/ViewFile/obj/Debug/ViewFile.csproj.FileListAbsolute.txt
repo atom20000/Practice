@@ -1,0 +1,9 @@
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice1\Pr01-2-3\ViewFile\ViewFile\bin\Debug\ViewFile.exe
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice1\Pr01-2-3\ViewFile\ViewFile\bin\Debug\ViewFile.pdb
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice1\Pr01-2-3\ViewFile\ViewFile\obj\Debug\ViewFile.csprojAssemblyReference.cache
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice1\Pr01-2-3\ViewFile\ViewFile\obj\Debug\ViewFile.Form1.resources
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice1\Pr01-2-3\ViewFile\ViewFile\obj\Debug\ViewFile.Properties.Resources.resources
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice1\Pr01-2-3\ViewFile\ViewFile\obj\Debug\ViewFile.csproj.GenerateResource.cache
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice1\Pr01-2-3\ViewFile\ViewFile\obj\Debug\ViewFile.csproj.CoreCompileInputs.cache
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice1\Pr01-2-3\ViewFile\ViewFile\obj\Debug\ViewFile.exe
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice1\Pr01-2-3\ViewFile\ViewFile\obj\Debug\ViewFile.pdb
