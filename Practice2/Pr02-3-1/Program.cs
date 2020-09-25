@@ -18,7 +18,7 @@ namespace Pr02_3_1
             }
             sourceFile.Close();
             destFile.Close();
-            //compStream.Close();
+            compStream.Close();
         }
 
         static void Main(string[] args)

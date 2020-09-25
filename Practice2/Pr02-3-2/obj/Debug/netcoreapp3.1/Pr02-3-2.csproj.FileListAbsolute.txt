@@ -1,0 +1,13 @@
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice2\Pr02-3-2\bin\Debug\netcoreapp3.1\Pr02-3-2.exe
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice2\Pr02-3-2\bin\Debug\netcoreapp3.1\Pr02-3-2.deps.json
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice2\Pr02-3-2\bin\Debug\netcoreapp3.1\Pr02-3-2.runtimeconfig.json
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice2\Pr02-3-2\bin\Debug\netcoreapp3.1\Pr02-3-2.runtimeconfig.dev.json
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice2\Pr02-3-2\bin\Debug\netcoreapp3.1\Pr02-3-2.dll
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice2\Pr02-3-2\bin\Debug\netcoreapp3.1\Pr02-3-2.pdb
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice2\Pr02-3-2\obj\Debug\netcoreapp3.1\Pr02-3-2.csprojAssemblyReference.cache
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice2\Pr02-3-2\obj\Debug\netcoreapp3.1\Pr02-3-2.AssemblyInfoInputs.cache
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice2\Pr02-3-2\obj\Debug\netcoreapp3.1\Pr02-3-2.AssemblyInfo.cs
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice2\Pr02-3-2\obj\Debug\netcoreapp3.1\Pr02-3-2.csproj.CoreCompileInputs.cache
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice2\Pr02-3-2\obj\Debug\netcoreapp3.1\Pr02-3-2.dll
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice2\Pr02-3-2\obj\Debug\netcoreapp3.1\Pr02-3-2.pdb
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice2\Pr02-3-2\obj\Debug\netcoreapp3.1\Pr02-3-2.genruntimeconfig.cache

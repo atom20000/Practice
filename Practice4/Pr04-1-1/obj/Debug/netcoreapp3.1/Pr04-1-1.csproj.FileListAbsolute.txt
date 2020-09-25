@@ -1,0 +1,13 @@
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice4\Pr04-1-1\bin\Debug\netcoreapp3.1\Pr04-1-1.exe
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice4\Pr04-1-1\bin\Debug\netcoreapp3.1\Pr04-1-1.deps.json
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice4\Pr04-1-1\bin\Debug\netcoreapp3.1\Pr04-1-1.runtimeconfig.json
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice4\Pr04-1-1\bin\Debug\netcoreapp3.1\Pr04-1-1.runtimeconfig.dev.json
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice4\Pr04-1-1\bin\Debug\netcoreapp3.1\Pr04-1-1.dll
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice4\Pr04-1-1\bin\Debug\netcoreapp3.1\Pr04-1-1.pdb
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice4\Pr04-1-1\obj\Debug\netcoreapp3.1\Pr04-1-1.csprojAssemblyReference.cache
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice4\Pr04-1-1\obj\Debug\netcoreapp3.1\Pr04-1-1.AssemblyInfoInputs.cache
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice4\Pr04-1-1\obj\Debug\netcoreapp3.1\Pr04-1-1.AssemblyInfo.cs
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice4\Pr04-1-1\obj\Debug\netcoreapp3.1\Pr04-1-1.csproj.CoreCompileInputs.cache
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice4\Pr04-1-1\obj\Debug\netcoreapp3.1\Pr04-1-1.dll
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice4\Pr04-1-1\obj\Debug\netcoreapp3.1\Pr04-1-1.pdb
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice4\Pr04-1-1\obj\Debug\netcoreapp3.1\Pr04-1-1.genruntimeconfig.cache
