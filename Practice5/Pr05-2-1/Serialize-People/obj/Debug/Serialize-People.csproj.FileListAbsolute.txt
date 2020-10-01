@@ -1,0 +1,5 @@
+C:\Users\student\source\repos\atom20000\Practice\Practice5\Pr05-2-1\Serialize-People\bin\Debug\Serialize-People.exe
+C:\Users\student\source\repos\atom20000\Practice\Practice5\Pr05-2-1\Serialize-People\bin\Debug\Serialize-People.pdb
+C:\Users\student\source\repos\atom20000\Practice\Practice5\Pr05-2-1\Serialize-People\obj\Debug\Serialize-People.csprojAssemblyReference.cache
+C:\Users\student\source\repos\atom20000\Practice\Practice5\Pr05-2-1\Serialize-People\obj\Debug\Serialize-People.exe
+C:\Users\student\source\repos\atom20000\Practice\Practice5\Pr05-2-1\Serialize-People\obj\Debug\Serialize-People.pdb
