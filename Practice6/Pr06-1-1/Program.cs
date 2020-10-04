@@ -1,6 +1,5 @@
 ﻿using Microsoft.VisualBasic.FileIO;
 using System;
-using System.Collections.Generic;
 
 namespace Pr06_1_1
 {
@@ -144,7 +143,6 @@ namespace Pr06_1_1
                 promeg[liststate.Length + i] = articles[i];
             }
             liststate = promeg;
-            promeg = null;
         }
         public override string ToString()
         {
@@ -189,6 +187,11 @@ namespace Pr06_1_1
             articles[3] = new Article(autor[2], "Vorober", 6.9);
             articles[4] = new Article(autor[1], "Fish", 8.9);
             mag.liststate = articles;
+            Console.WriteLine(mag.ToString());
+            articles = new Article[2];
+            articles[0] = new Article(autor[1], "Sazan", 1.9);
+            articles[1] = new Article(autor[0], "Hunter", 9.9);
+            mag.AddArticles(articles);
             Console.WriteLine(mag.ToString());
         }
   }
