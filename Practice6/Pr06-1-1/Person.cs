@@ -51,11 +51,11 @@ public class Person
 	{
 		name = "";
 		surname = "";
-		datatime = new DateTime(0,0,0);
+		datatime = new DateTime();
 	}
 	public override string ToString()
 	{
-		return $"{name} {surname} рожденный {datatime.Day}.{datatime.Month}.{datatime.Year}";
+		return $"{name} {surname} рожденный {datatime.Date}";
 	}
 	public virtual string ToShortString()
 	{
