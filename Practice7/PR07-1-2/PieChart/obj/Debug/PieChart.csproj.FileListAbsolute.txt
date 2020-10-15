@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\atom20000\Practice\Practice7\PieChart\obj\Debug\PieChart.csprojAssemblyReference.cache
+C:\Users\student\source\repos\atom20000\Practice\Practice7\PieChart\obj\Debug\PieChart.Form1.resources
+C:\Users\student\source\repos\atom20000\Practice\Practice7\PieChart\obj\Debug\PieChart.Properties.Resources.resources
+C:\Users\student\source\repos\atom20000\Practice\Practice7\PieChart\obj\Debug\PieChart.csproj.GenerateResource.cache
+C:\Users\student\source\repos\atom20000\Practice\Practice7\PieChart\bin\Debug\PieChart.exe
+C:\Users\student\source\repos\atom20000\Practice\Practice7\PieChart\bin\Debug\PieChart.pdb
+C:\Users\student\source\repos\atom20000\Practice\Practice7\PieChart\obj\Debug\PieChart.exe
+C:\Users\student\source\repos\atom20000\Practice\Practice7\PieChart\obj\Debug\PieChart.pdb
