@@ -36,29 +36,56 @@ namespace PieChart
 
         private Image drawPieChart(ArrayList elements, Size s)
         {
-              Bitmap bm = new Bitmap(s.Width, s.Height);
-              Graphics g = Graphics.FromImage(bm);
+            Bitmap bm = new Bitmap(s.Width, s.Height);
+            Graphics g = Graphics.FromImage(bm);
             float total = 0;
             foreach (PieChartElement e in elements)
             {
-              if (e.value < 0)
-              {
-                throw new ArgumentException("All elements must have positive values");
-              }
-              total += e.value;
+                if (e.value < 0)
+                {
+                    throw new ArgumentException("All elements must have positive values");
+                }
+                total += e.value;
             }
             if (!(total > 0))
             {
-              throw new ArgumentException("Must provide at least one PieChartElement with a positive value");
+                throw new ArgumentException("Must provide at least one PieChartElement with a positive value");
             }
-            Rectangle rect = new Rectangle(1, 1, s.Width - 2, s.Height - 2);
+            Rectangle rect = new Rectangle(1, 1, (s.Width / 2) , s.Height - 2);
             Pen p = new Pen(Color.Black, 1);
             float startAngle = 0;
+            Point IRectCorner = new Point((s.Width / 2)+4, 1);
+            Size IRectSize = new Size(s.Width - (s.Width / 2)-2, s.Height - 2);
+            Rectangle IRect = new Rectangle(IRectCorner, IRectSize);
+            Brush lb = new SolidBrush(Color.White);
+            Pen lp = new Pen(Color.Black, 1); g.FillRectangle(lb, IRect);
+            g.DrawRectangle(lp, IRect);
+            int vert = (IRect.Height - 10) / elements.Count;
+            int legendWidth = IRect.Width / 5;
+            int legendHeight = (int)(vert * 0.75);
+            int buffer = (int)(vert - legendHeight) / 2;
+            int textX = IRectCorner.X + legendWidth + buffer * 2;
+            int currentVert = 5; 
+            int legendColor = 0;
             foreach (PieChartElement e in elements)
             {
-              float sweepAngle = (e.value / total) * 360;
-              g.DrawPie(p, rect, startAngle, sweepAngle);
-              startAngle += sweepAngle;
+                float sweepAngle = (e.value / total) * 360;
+                g.DrawPie(p, rect, startAngle, sweepAngle);
+                startAngle += sweepAngle;
+
+                int textWidth = IRect.Width - (IRect.Width / 5) - (buffer * 2);
+                Rectangle thisRect = new Rectangle(IRectCorner.X + buffer, currentVert + buffer, legendWidth, legendHeight);
+                Brush b = new LinearGradientBrush(thisRect, Color.Black, Color.White, (float)45);
+                g.FillRectangle(b, thisRect);
+                g.DrawRectangle(lp, thisRect);
+                RectangleF textRect = new Rectangle(textX, currentVert + buffer, textWidth, legendHeight);
+                Font tf = new Font("Arial", 12);
+                Brush tb = new SolidBrush(Color.Black);
+                StringFormat sf = new StringFormat();
+                sf.Alignment = StringAlignment.Near;
+                sf.LineAlignment = StringAlignment.Center;
+                g.DrawString(e.name + " " + e.value, tf, tb, textRect, sf);
+                currentVert += vert;
             }
             return bm;
         }

@@ -6,3 +6,12 @@ C:\Users\student\source\repos\atom20000\Practice\Practice7\PieChart\bin\Debug\Pi
 C:\Users\student\source\repos\atom20000\Practice\Practice7\PieChart\bin\Debug\PieChart.pdb
 C:\Users\student\source\repos\atom20000\Practice\Practice7\PieChart\obj\Debug\PieChart.exe
 C:\Users\student\source\repos\atom20000\Practice\Practice7\PieChart\obj\Debug\PieChart.pdb
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice7\PR07-1-2\PieChart\bin\Debug\PieChart.exe
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice7\PR07-1-2\PieChart\bin\Debug\PieChart.pdb
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice7\PR07-1-2\PieChart\obj\Debug\PieChart.csprojAssemblyReference.cache
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice7\PR07-1-2\PieChart\obj\Debug\PieChart.Form1.resources
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice7\PR07-1-2\PieChart\obj\Debug\PieChart.Properties.Resources.resources
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice7\PR07-1-2\PieChart\obj\Debug\PieChart.csproj.GenerateResource.cache
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice7\PR07-1-2\PieChart\obj\Debug\PieChart.csproj.CoreCompileInputs.cache
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice7\PR07-1-2\PieChart\obj\Debug\PieChart.exe
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice7\PR07-1-2\PieChart\obj\Debug\PieChart.pdb

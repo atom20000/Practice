@@ -34,12 +34,12 @@ namespace PieChart
             // 
             // chart
             // 
-            this.chart.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-                        | System.Windows.Forms.AnchorStyles.Left)
-                        | System.Windows.Forms.AnchorStyles.Right)));
+            this.chart.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.chart.Location = new System.Drawing.Point(12, 12);
             this.chart.Name = "chart";
-            this.chart.Size = new System.Drawing.Size(668, 409);
+            this.chart.Size = new System.Drawing.Size(847, 480);
             this.chart.TabIndex = 1;
             this.chart.TabStop = false;
             this.chart.Paint += new System.Windows.Forms.PaintEventHandler(this.Draw);
@@ -48,7 +48,7 @@ namespace PieChart
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(692, 433);
+            this.ClientSize = new System.Drawing.Size(883, 504);
             this.Controls.Add(this.chart);
             this.Name = "Form1";
             this.Text = "Pie chart generator";
