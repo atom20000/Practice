@@ -1,0 +1,11 @@
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice9\PR09-2-1\bin\Debug\PR09-2-1.exe.config
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice9\PR09-2-1\bin\Debug\PR09-2-1.exe
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice9\PR09-2-1\bin\Debug\PR09-2-1.pdb
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice9\PR09-2-1\obj\Debug\PR09-2-1.csprojAssemblyReference.cache
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice9\PR09-2-1\obj\Debug\PR09_2_1.Form1.resources
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice9\PR09-2-1\obj\Debug\PR09_2_1.Properties.Resources.resources
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice9\PR09-2-1\obj\Debug\PR09-2-1.csproj.GenerateResource.cache
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice9\PR09-2-1\obj\Debug\PR09-2-1.csproj.CoreCompileInputs.cache
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice9\PR09-2-1\obj\Debug\PR09-2-1.exe
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice9\PR09-2-1\obj\Debug\PR09-2-1.pdb
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice9\PR09-2-1\obj\Debug\PR09_2_1.Preview.resources
