@@ -1,0 +1,13 @@
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice12\PR12-1-1Test\bin\Debug\PR12-1-1Test.dll
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice12\PR12-1-1Test\bin\Debug\PR12-1-1Test.pdb
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice12\PR12-1-1Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice12\PR12-1-1Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice12\PR12-1-1Test\bin\Debug\PR12-1-1.dll
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice12\PR12-1-1Test\bin\Debug\PR12-1-1.pdb
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice12\PR12-1-1Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice12\PR12-1-1Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice12\PR12-1-1Test\obj\Debug\PR12-1-1Test.csprojAssemblyReference.cache
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice12\PR12-1-1Test\obj\Debug\PR12-1-1Test.csproj.CoreCompileInputs.cache
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice12\PR12-1-1Test\obj\Debug\PR12-1-1Test.csproj.CopyComplete
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice12\PR12-1-1Test\obj\Debug\PR12-1-1Test.dll
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice12\PR12-1-1Test\obj\Debug\PR12-1-1Test.pdb

@@ -1,0 +1,6 @@
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice12\PR12-1-1\bin\Debug\PR12-1-1.dll
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice12\PR12-1-1\bin\Debug\PR12-1-1.pdb
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice12\PR12-1-1\obj\Debug\PR12-1-1.csprojAssemblyReference.cache
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice12\PR12-1-1\obj\Debug\PR12-1-1.csproj.CoreCompileInputs.cache
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice12\PR12-1-1\obj\Debug\PR12-1-1.dll
+E:\Users\МАКСИМ\Desktop\учеба ВУЗ\Репозиторий яп\Practice\Practice12\PR12-1-1\obj\Debug\PR12-1-1.pdb
